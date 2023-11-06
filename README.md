@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rivkj
 - 👀 I’m interested in learning more about coding and creating projects
-- 🌱 I’m currently learning the foundations
+- 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on anything that can help me become better at coding
 - 📫 How to reach me via email at rivaskj07@gmail.com
 
