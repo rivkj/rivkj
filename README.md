@@ -6,7 +6,7 @@
 
 Who I am:
 - 🎥 What I'm currently watching: One Piece ep: #541
-- 🔆 The next thing I'm working on as a hobby: Blender animations
+- 🔆 The next thing I'm working on: Blender animations
   
 
 <!---
