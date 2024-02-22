@@ -5,7 +5,7 @@
 - 📫 How to reach me via email at rivaskj07@gmail.com
 
 Who I am:
-- 🎥 What I'm currently watching: One Piece ep: #562
+- 🎥 What I'm currently watching: One Piece ep: #567
 - 🔆 The next thing I'm working on: Blender animations
   
 
