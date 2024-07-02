@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @rivkj
-- 👀 I’m interested in learning more about coding and creating projects, I enjoy working with front-end!
+- 👀 I’m interested in learning more about coding, design, and creating projects - I enjoy working with front-end!
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on anything that can help me become a better developer
 - 📫 How to reach me via email at rivaskj07@gmail.com
 
 Who I am:
-- 🎥 What I'm currently watching: One Piece ep: #902
+- 🎥 What I'm currently watching: One Piece ep: #905
 - 🔆 The next thing I'm working on: Blender animations
   
 
